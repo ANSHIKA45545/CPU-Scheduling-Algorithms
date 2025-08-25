@@ -14,6 +14,7 @@ The program allows users to enter the number of processes, Arrival Time, Burst T
 - Priority Scheduling – Non-preemptive  
 
 ✅ User-defined Number of Processes 
+
 ✅ Interactive input for:
 - Arrival Time (AT)
 - Burst Time (BT)
@@ -26,3 +27,16 @@ The program allows users to enter the number of processes, Arrival Time, Burst T
 - Average WT & TAT
 
 ---
+
+▶ How to Run
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/cpu-scheduling-java.git
+cd cpu-scheduling-java/src
+
+### Compile
+javac main/Main.java models/*.java algorithms/*.java
+
+### Run
+java main.Main
