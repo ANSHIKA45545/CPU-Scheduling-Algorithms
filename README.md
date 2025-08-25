@@ -49,7 +49,11 @@ Enter the number of processes : _
 Enter Arrival Time, Burst Time, and Priority for each process
 
 Choose the scheduling algorithm:
+
 1 → FCFS
+
 2 → SJF
+
 3 → Round Robin (will ask for quantum)
+
 4 → Priority
