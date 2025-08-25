@@ -85,8 +85,11 @@ Choose the scheduling algorithm:
 ### 📚 Algorithms Implemented
 
 First Come First Serve (FCFS): Non-preemptive, executed in order of arrival.
+
 Shortest Job First (SJF): Non-preemptive, shortest burst time first.
+
 Round Robin: Preemptive, time-sharing with user-defined quantum.
+
 Priority Scheduling: Non-preemptive, higher priority executes first.
 
 ---
