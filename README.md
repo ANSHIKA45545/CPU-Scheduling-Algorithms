@@ -42,6 +42,7 @@ javac main/Main.java models/*.java algorithms/*.java
 java main.Main
 
 ```
+---
 
 ✅ Provide Input
 
