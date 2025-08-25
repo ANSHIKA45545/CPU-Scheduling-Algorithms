@@ -58,3 +58,8 @@ Choose the scheduling algorithm:
 3 → Round Robin (will ask for quantum)
 
 4 → Priority
+
+---
+
+🖥 Example Output (FCFS)
+<img width="539" height="537" alt="Command Prompt 8_25_2025 1_55_18 PM" src="https://github.com/user-attachments/assets/77643899-3a8c-4df7-8c8c-f70af01ab755" />
