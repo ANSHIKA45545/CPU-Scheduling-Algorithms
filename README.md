@@ -43,3 +43,11 @@ java main.Main
 
 ---
 
+### Follow Prompts
+
+1. Enter number of processes
+2. Enter Arrival Time, Burst Time, and Priority
+3. Select the desired Scheduling Algorithm
+4. For Round Robin, enter Time Quantum
+
+---
