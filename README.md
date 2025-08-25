@@ -41,7 +41,7 @@ javac main/Main.java models/*.java algorithms/*.java
 ### Run
 java main.Main
 
----
+```
 
 ### Follow Prompts
 
