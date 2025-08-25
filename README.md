@@ -84,12 +84,22 @@ Choose the scheduling algorithm:
 
 ### 📚 Algorithms Implemented
 
-First Come First Serve (FCFS): Non-preemptive, executed in order of arrival.
+-> First Come First Serve (FCFS): Non-preemptive, executed in order of arrival.
 
-Shortest Job First (SJF): Non-preemptive, shortest burst time first.
+-> Shortest Job First (SJF): Non-preemptive, shortest burst time first.
 
-Round Robin: Preemptive, time-sharing with user-defined quantum.
+-> Round Robin: Preemptive, time-sharing with user-defined quantum.
 
-Priority Scheduling: Non-preemptive, higher priority executes first.
+-> Priority Scheduling: Non-preemptive, higher priority executes first.
 
 ---
+
+🚀 Future Enhancements
+
+✅ Add Gantt Chart Visualization in terminal
+
+✅ GUI using Java Swing
+
+✅ Implement Preemptive SJF & Priority
+
+✅ Export results as CSV or PDF
