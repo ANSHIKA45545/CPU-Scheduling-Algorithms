@@ -79,3 +79,17 @@ Choose the scheduling algorithm:
 5. Priority Scheduling
 
    <img width="539" height="537" alt="Command Prompt 8_25_2025 1_55_18 PM" src="https://github.com/user-attachments/assets/77643899-3a8c-4df7-8c8c-f70af01ab755" />
+
+---
+
+### 📚 Algorithms Implemented
+
+First Come First Serve (FCFS): Non-preemptive, executed in order of arrival.
+
+Shortest Job First (SJF): Non-preemptive, shortest burst time first.
+
+Round Robin: Preemptive, time-sharing with user-defined quantum.
+
+Priority Scheduling: Non-preemptive, higher priority executes first.
+
+---
