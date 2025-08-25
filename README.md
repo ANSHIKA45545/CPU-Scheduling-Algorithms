@@ -44,7 +44,7 @@ java main.Main
 ```
 ---
 
-✅ Provide Input
+### ✅ Provide Input
 
 Enter the number of processes : _
 Enter Arrival Time, Burst Time, and Priority for each process
@@ -61,5 +61,12 @@ Choose the scheduling algorithm:
 
 ---
 
-🖥 Example Output (FCFS)
+### 🖥 Example Output (FCFS)
+
+
+1. FCFS Scheduling
+
+   <img width="628" height="541" alt="Command Prompt 8_25_2025 1_55_34 PM" src="https://github.com/user-attachments/assets/d7d23ee4-0014-42f4-bbdd-ee9f70e00d76" />
+
+1. Priority Scheduling
 <img width="539" height="537" alt="Command Prompt 8_25_2025 1_55_18 PM" src="https://github.com/user-attachments/assets/77643899-3a8c-4df7-8c8c-f70af01ab755" />
