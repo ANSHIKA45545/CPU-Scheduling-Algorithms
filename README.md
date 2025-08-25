@@ -36,7 +36,12 @@ git clone https://github.com/your-username/cpu-scheduling-java.git
 cd cpu-scheduling-java/src
 
 ### Compile
+```bash
 javac main/Main.java models/*.java algorithms/*.java
 
 ### Run
+```bash
 java main.Main
+
+---
+n
