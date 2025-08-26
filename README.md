@@ -47,6 +47,7 @@ java main.Main
 ### ✅ Provide Input
 
 Enter the number of processes : _
+
 Enter Arrival Time, Burst Time, and Priority for each process
 
 Choose the scheduling algorithm:
